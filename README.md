@@ -85,3 +85,4 @@ Expected Output: "Email already in use!"
 Review Summary
 The layered architecture ensures that the application remains organized and easy to modify. By separating the UI, business logic, data access, and data model, the system adheres to software engineering principles, making it more scalable and maintainable.
 
+https://github.com/user-attachments/assets/63e2979f-f3f8-401b-a3d2-06500c2bce48
